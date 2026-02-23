@@ -1,5 +1,5 @@
 # 💫 About Me:
-BSc in Computer Science & Engineering | AI Agents, Terraform & Azure
+BSc in Computer Science & Engineering | AI Agents, Terraform & Azure \
 Currently working with Python, Terraform and LangGraph for AI Agentic Orchestration.
 
 
